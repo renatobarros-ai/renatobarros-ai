@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá!!! 👋
 
 <!--
 **renatobarros-ai/renatobarros-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Dedicado a solucionar problemas complexos através da Inteligência Artificial e Machine Learning. 
+
+E sim, se a rebelião das máquinas acontecer, podem contar comigo para garantir que o Schwarzenegger esteja pronto para voltar e salvar o John Connor. 😉 
+
+Enquanto isso, estou entusiasmado para aplicar minhas habilidades em projetos desafiadores que causem impacto positivo no mundo e na sociedade.
