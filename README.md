@@ -1,5 +1,6 @@
 ## Olá, tudo bom?
 
+div align="justify">
 Sou estudante de Inteligência Artificial (FIAP, previsão de conclusão: 2025), em transição de carreira para a área de tecnologia, com foco em aprendizado de máquina, buscando aplicar meus conhecimentos em projetos reais, podendo assim contribuir com a inovação e o desenvolvimento da nossa sociedade.
 
 Apesar de estar no início da jornada em IA, os projetos que desenvolvi já demonstram minha capacidade e experiência prática em todas as etapas de um projeto de dados, desde a coleta, pré-processamento e análise exploratória, até a modelagem e avaliação, utilizando python com as bibliotecas como Pandas, NumPy, Scikit-learn, entre outras. Esses projetos demonstram minha capacidade de construir e otimizar modelos preditivos.
@@ -25,4 +26,5 @@ TimeSeriesSplit
 * [Desenvolvimento de Modelo para Previsão de Consumo de Energia Elétrica Residencial](https://github.com/renatobarros-ai/previsao_energia)
 * [Desenvolvimento de Modelo para Previsão de Valor de Aluguel](https://github.com/renatobarros-ai/previsao_aluguel)
 * [Implementação de Rede Neural Perceptron](https://github.com/renatobarros-ai/perceptron)
+</div>
 
