@@ -6,9 +6,11 @@ Sou estudante de Inteligência Artificial (FIAP, previsão de conclusão: 2025),
 Apesar de estar no início da jornada em IA, os projetos que desenvolvi já demonstram minha capacidade e experiência prática em todas as etapas de um projeto de dados, desde a coleta, pré-processamento e análise exploratória, até a modelagem e avaliação, utilizando python com as bibliotecas como Pandas, NumPy, Scikit-learn, entre outras. Esses projetos demonstram minha capacidade de construir e otimizar modelos preditivos.
 
 Além disso, minha profissão anterior como diretor técnico de shows, propiciou-me uma vasta experiência na gestão de projetos técnicos complexos. Auxiliando-me assim a desenvolver sólidas habilidades de resolução de problemas, colaboração e comunicação, que também são essenciais para um ambiente de P&D.
+</p>
 
 ## Habilidades Técnicas
 
+<p align="justify">
 * **Linguagens de Programação:** Python, SQL, R
 * **Bibliotecas Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 * **Machine Learning:** Regressão (Linear, Ridge, Lasso, ElasticNet, SGD), Árvores de Decisão, Random Forest, KNN,
@@ -20,9 +22,11 @@ de Outliers, Codificação de Variáveis Categóricas, Padronização, Normaliza
 TimeSeriesSplit
 * **Ferramentas:** Jupyter Notebook, Git
 * **Outras Habilidades:** Arduino, ESP32, Linux, Vim, Computação em Nuvem
+</p>
 
 ## Meus Projetos
 
+<p align="justify">
 * [Desenvolvimento de Modelo para Previsão de Consumo de Energia Elétrica Residencial](https://github.com/renatobarros-ai/previsao_energia)
 * [Desenvolvimento de Modelo para Previsão de Valor de Aluguel](https://github.com/renatobarros-ai/previsao_aluguel)
 * [Implementação de Rede Neural Perceptron](https://github.com/renatobarros-ai/perceptron)
