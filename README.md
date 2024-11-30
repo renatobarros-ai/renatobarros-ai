@@ -10,7 +10,6 @@ Além disso, minha profissão anterior como diretor técnico de shows, propiciou
 
 ## Habilidades Técnicas
 
-<p align="justify">
 * **Linguagens de Programação:** Python, SQL, R
 * **Bibliotecas Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 * **Machine Learning:** Regressão (Linear, Ridge, Lasso, ElasticNet, SGD), Árvores de Decisão, Random Forest, KNN,
@@ -22,13 +21,9 @@ de Outliers, Codificação de Variáveis Categóricas, Padronização, Normaliza
 TimeSeriesSplit
 * **Ferramentas:** Jupyter Notebook, Git
 * **Outras Habilidades:** Arduino, ESP32, Linux, Vim, Computação em Nuvem
-</p>
 
 ## Meus Projetos
 
-<p align="justify">
 * [Desenvolvimento de Modelo para Previsão de Consumo de Energia Elétrica Residencial](https://github.com/renatobarros-ai/previsao_energia)
 * [Desenvolvimento de Modelo para Previsão de Valor de Aluguel](https://github.com/renatobarros-ai/previsao_aluguel)
 * [Implementação de Rede Neural Perceptron](https://github.com/renatobarros-ai/perceptron)
-</p>
-
