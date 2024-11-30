@@ -1,4 +1,4 @@
-## Olá, tudo bom? 👋
+## Olá, tudo bom?
 
 Sou estudante de Inteligência Artificial (FIAP, previsão de conclusão: 2025), em transição de carreira para a área de tecnologia, com foco em aprendizado de máquina, buscando aplicar meus conhecimentos em projetos reais, podendo assim contribuir com a inovação e o desenvolvimento da nossa sociedade.
 
@@ -19,3 +19,10 @@ de Outliers, Codificação de Variáveis Categóricas, Padronização, Normaliza
 TimeSeriesSplit
 * **Ferramentas:** Jupyter Notebook, Git
 * **Outras Habilidades:** Arduino, ESP32, Linux, Vim, Computação em Nuvem
+
+## Meus Projetos
+
+* [Desenvolvimento de Modelo para Previsão de Consumo de Energia Elétrica Residencial] (https://github.com/renatobarros-ai/previsao_energia)
+* [Desenvolvimento de Modelo para Previsão de Valor de Aluguel] (https://github.com/renatobarros-ai/previsao_aluguel)
+* [Implementação de Rede Neural Perceptron] (https://github.com/renatobarros-ai/perceptron)
+
