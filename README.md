@@ -1,4 +1,4 @@
-## Olá!!! 👋
+## Olá, tudo bom? 👋
 
 <!--
 **renatobarros-ai/renatobarros-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Dedicado a solucionar problemas complexos através da Inteligência Artificial e Machine Learning. 
+Sou estudante de Inteligência Artificial (FIAP, previsão de conclusão: 2025), em transição de carreira para a área de tecnologia, com foco em aprendizado de máquina, buscando aplicar meus conhecimentos em projetos reais, podendo assim contribuir com a inovação e o desenvolvimento da nossa sociedade.
 
-E sim, se a rebelião das máquinas acontecer, podem contar comigo para garantir que o Schwarzenegger esteja pronto para voltar e salvar o John Connor. 😉 
+Apesar de estar no início da jornada em IA, os projetos que desenvolvi já demonstram minha capacidade e experiência prática em todas as etapas de um projeto de dados, desde a coleta, pré-processamento e análise exploratória, até a modelagem e avaliação, utilizando python com as bibliotecas como Pandas, NumPy, Scikit-learn, entre outras. Esses projetos demonstram minha capacidade de construir e otimizar modelos preditivos.
 
-Enquanto isso, estou entusiasmado para aplicar minhas habilidades em projetos desafiadores que causem impacto positivo no mundo e na sociedade.
+Além disso, minha profissão anterior como diretor técnico de shows, propiciou-me uma vasta experiência na gestão de projetos técnicos complexos. Auxiliando-me assim a desenvolver sólidas habilidades de resolução de problemas, colaboração e comunicação, que também são essenciais para um ambiente de P&D.
