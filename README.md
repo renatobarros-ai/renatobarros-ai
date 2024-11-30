@@ -22,7 +22,7 @@ TimeSeriesSplit
 
 ## Meus Projetos
 
-* [Desenvolvimento de Modelo para Previsão de Consumo de Energia Elétrica Residencial] ( https://github.com/renatobarros-ai/previsao_energia )
-* [Desenvolvimento de Modelo para Previsão de Valor de Aluguel] ( https://github.com/renatobarros-ai/previsao_aluguel )
-* [Implementação de Rede Neural Perceptron] ( https://github.com/renatobarros-ai/perceptron )
+* [Desenvolvimento de Modelo para Previsão de Consumo de Energia Elétrica Residencial](https://github.com/renatobarros-ai/previsao_energia)
+* [Desenvolvimento de Modelo para Previsão de Valor de Aluguel](https://github.com/renatobarros-ai/previsao_aluguel)
+* [Implementação de Rede Neural Perceptron](https://github.com/renatobarros-ai/perceptron)
 
