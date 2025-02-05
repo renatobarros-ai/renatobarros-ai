@@ -22,6 +22,18 @@ Minha formação em Produção Fonográfica e mais de 10 anos de experiência co
 * **Prototipação IoT:** Raspberry Pi, ESP-32, Arduino
 * **Ambiente de Desenvolvimento:** Arch Linux (via Prompt de Comando), NeoVIM (IDE)
 
+## Habilidades Interpessoais
+
+* Pensamento analítico
+* Proatividade na resolução de problemas
+* Habilidades de comunicação e apresentação
+* Criatividade e Inovação
+* Pensamento crítico e tomada de decisão
+* Criação de narrativas a partir dos dados
+* Empatia e boa capacidade de trabalho e equipe
+* Afinidade com produção acadêmica
+* Responsabilidade social
+
 ## Meus Projetos
 
 * [Desenvolvimento de Modelo para Previsão de Consumo de Energia Elétrica Residencial](https://github.com/renatobarros-ai/previsao_energia)
