@@ -6,7 +6,6 @@ Sou estudante de Inteligência Artificial (FIAP/SP) e graduado em Produção Fon
 Apesar de estar no início da minha jornada em IA, possuo experiência prática, adquirida em trabalhos freelancer e em laboratório acadêmico, com programação em Python, R, SQL e Bash Script, manipulação de dados, criação e otimização de modelos preditivos de aprendizado de máquina e redes neurais, utilizando bibliotecas e frameworks como Pandas, NumPy, TensorFlow e PyTorch. Também tenho vivência em versionamento de código com Git e Github, prototipação para IoT com Raspberry Pi, ESP-32 e Arduino, e computação em nuvem da AWS. Essas habilidades me permitirão não apenas atender às necessidades do estágio, mas também continuar aprendendo e me desenvolver dentro da empresa.
 
 Minha formação em Produção Fonográfica e mais de 10 anos de experiência como técnico de som (eventos ao vivo e estúdio) e produtor técnico em festivais de música me proporcionaram sólido conhecimento em análise e processamento de áudio.  Além disso,  desenvolvi habilidades essenciais para um ambiente de P&D, como resolução de problemas, colaboração e comunicação, graças à experiência em projetos técnicos complexos e à interação com profissionais de diversas áreas.
-
 </p>
 
 ## Habilidades Técnicas
