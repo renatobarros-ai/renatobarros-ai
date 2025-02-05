@@ -1,26 +1,27 @@
 ## Olá, tudo bom?
 
 <p align="justify">
-Sou estudante de Inteligência Artificial (FIAP, previsão de conclusão: 2025), em transição de carreira para a área de tecnologia, com foco em aprendizado de máquina, buscando aplicar meus conhecimentos em projetos reais, podendo assim contribuir com a inovação e o desenvolvimento da nossa sociedade.
+Sou estudante de Inteligência Artificial (FIAP/SP) e graduado em Produção Fonográfica (UniAESO/PE).  Estou em transição de carreira para a área de tecnologia e busco um estágio que me permita explorar e inovar, colaborando no desenvolvimento de tecnologias por meio de pesquisa e experimentação.
 
-Apesar de estar no início da jornada em IA, os projetos que desenvolvi já demonstram minha capacidade e experiência prática em todas as etapas de um projeto de dados, desde a coleta, pré-processamento e análise exploratória, até a modelagem e avaliação, utilizando python com as bibliotecas como Pandas, NumPy, Scikit-learn, entre outras. Esses projetos demonstram minha capacidade de construir e otimizar modelos preditivos.
+Apesar de estar no início da minha jornada em IA, possuo experiência prática, adquirida em trabalhos freelancer e em laboratório acadêmico, com programação em Python, R, SQL e Bash Script, manipulação de dados, criação e otimização de modelos preditivos de aprendizado de máquina e redes neurais, utilizando bibliotecas e frameworks como Pandas, NumPy, TensorFlow e PyTorch. Também tenho vivência em versionamento de código com Git e Github, prototipação para IoT com Raspberry Pi, ESP-32 e Arduino, e computação em nuvem da AWS. Essas habilidades me permitirão não apenas atender às necessidades do estágio, mas também continuar aprendendo e me desenvolver dentro da empresa.
 
-Além disso, minha profissão anterior como diretor técnico de shows, propiciou-me uma vasta experiência na gestão de projetos técnicos complexos. Auxiliando-me assim a desenvolver sólidas habilidades de resolução de problemas, colaboração e comunicação, que também são essenciais para um ambiente de P&D.
+Minha formação em Produção Fonográfica e mais de 10 anos de experiência como técnico de som (eventos ao vivo e estúdio) e produtor técnico em festivais de música me proporcionaram sólido conhecimento em análise e processamento de áudio.  Além disso,  desenvolvi habilidades essenciais para um ambiente de P&D, como resolução de problemas, colaboração e comunicação, graças à experiência em projetos técnicos complexos e à interação com profissionais de diversas áreas.
+
 </p>
 
 ## Habilidades Técnicas
 
-* **Linguagens de Programação:** Python, SQL, R
-* **Bibliotecas Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-* **Machine Learning:** Regressão (Linear, Ridge, Lasso, ElasticNet, SGD), Árvores de Decisão, Random Forest, KNN,
-Processo Gaussiano, Redes Neurais (Perceptron)
-* **Pré-processamento de Dados:** Limpeza, Transformação, Feature Engineering, Seleção de Features, Tratamento
-de Outliers, Codificação de Variáveis Categóricas, Padronização, Normalização
-* **Análise Exploratória de Dados:** Identificação de Padrões, Insights, Visualização, Análise de Correlação
-* **Avaliação de Modelos:** Métricas de Performance (R², RMSE, MAE, MAPE), Validação Cruzada, GridSearchCV,
-TimeSeriesSplit
-* **Ferramentas:** Jupyter Notebook, Git
-* **Outras Habilidades:** Arduino, ESP32, Linux, Vim, Computação em Nuvem
+* **Linguagens de Programação:** Python, SQL, R, Bash Script
+* **Bibliotecas Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
+* **Machine Learning:** Regressão (Linear, Ridge, Lasso, ElasticNet, SGD), Árvores de Decisão, Random Forest, KNN, Processo Gaussiano, Redes Neurais (Perceptron) 
+* **Pré-processamento de Dados:** Limpeza, Transformação, Feature Engineering, Seleção de Features, Tratamento de Outliers, Codificação de Variáveis Categóricas, Padronização, Normalização 
+* **Análise Exploratória de Dados:** Identificação de Padrões, Insights, Visualização, Análise de Correlação 
+* **Avaliação de Modelos:** Métricas de Performance (R², RMSE, MAE, MAPE), Validação Cruzada, GridSearchCV, TimeSeriesSplit 
+* **Análise e Processamento de Sinais:** Áudio Analógico e Digital (Redução de Ruído, Equalização, Compressão, Limiter, Efeitos)
+* **Ferramentas:** Jupyter Notebook, Git, Github
+* **Computação em Nuvem AWS:** EC2 (Máquina Virtual), EBS (Armazenamento), RDS (Banco de Dados)
+* **Prototipação IoT:** Raspberry Pi, ESP-32, Arduino
+* **Ambiente de Desenvolvimento:** Arch Linux (via Prompt de Comando), NeoVIM (IDE)
 
 ## Meus Projetos
 
