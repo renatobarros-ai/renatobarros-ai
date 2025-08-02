@@ -1,41 +1,42 @@
-## Olá, tudo bom?
+### **Renato Barros**
+**Engenheiro de IA & Desenvolvedor de Soluções de Ponta a Ponta**
 
-<p align="justify">
-Sou estudante de Inteligência Artificial (FIAP/SP) e graduado em Produção Fonográfica (UniAESO/PE).  Estou em transição de carreira para a área de tecnologia e busco um estágio que me permita explorar e inovar, colaborando no desenvolvimento de tecnologias por meio de pesquisa e experimentação.
+Construo aplicações inteligentes e robustas para resolver problemas complexos, com foco em projetos de alto impacto real. Minha jornada de mais de uma década na engenharia de áudio, lidando com sistemas complexos em tempo real, moldou uma abordagem metódica e criativa para a arquitetura de sistemas de IA. Hoje, aplico essa mesma paixão por sistemas para transformar dados brutos e conversas abertas em ferramentas acionáveis.
 
-Apesar de estar no início da minha jornada em IA, possuo experiência prática, adquirida em trabalhos freelancer e em laboratório acadêmico, com programação em Python, R, SQL e Bash Script, manipulação de dados, criação e otimização de modelos preditivos de aprendizado de máquina e redes neurais, utilizando bibliotecas e frameworks como Pandas, NumPy, TensorFlow e PyTorch. Também tenho vivência em versionamento de código com Git e Github, prototipação para IoT com Raspberry Pi, ESP-32 e Arduino, e computação em nuvem da AWS. Essas habilidades me permitirão não apenas atender às necessidades do estágio, mas também continuar aprendendo e me desenvolver dentro da empresa.
+Estou sempre em busca de desafios que exijam não apenas rigor técnico, mas também um profundo entendimento do problema humano por trás da tecnologia.
 
-Minha formação em Produção Fonográfica e mais de 10 anos de experiência como técnico de som (eventos ao vivo e estúdio) e produtor técnico em festivais de música me proporcionaram sólido conhecimento em análise e processamento de áudio.  Além disso,  desenvolvi habilidades essenciais para um ambiente de P&D, como resolução de problemas, colaboração e comunicação, graças à experiência em projetos técnicos complexos e à interação com profissionais de diversas áreas.
-</p>
+---
 
-## Habilidades Técnicas
+### **Principais Competências**
 
-* **Linguagens de Programação:** Python, SQL, R, Bash Script
-* **Bibliotecas Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
-* **Machine Learning:** Regressão (Linear, Ridge, Lasso, ElasticNet, SGD), Árvores de Decisão, Random Forest, KNN, Processo Gaussiano, Redes Neurais (Perceptron) 
-* **Pré-processamento de Dados:** Limpeza, Transformação, Feature Engineering, Seleção de Features, Tratamento de Outliers, Codificação de Variáveis Categóricas, Padronização, Normalização 
-* **Análise Exploratória de Dados:** Identificação de Padrões, Insights, Visualização, Análise de Correlação 
-* **Avaliação de Modelos:** Métricas de Performance (R², RMSE, MAE, MAPE), Validação Cruzada, GridSearchCV, TimeSeriesSplit 
-* **Análise e Processamento de Sinais:** Áudio Analógico e Digital (Redução de Ruído, Equalização, Compressão, Limiter, Efeitos)
-* **Ferramentas:** Jupyter Notebook, Git, Github
-* **Computação em Nuvem AWS:** EC2 (Máquina Virtual), EBS (Armazenamento), RDS (Banco de Dados)
-* **Prototipação IoT:** Raspberry Pi, ESP-32, Arduino
-* **Ambiente de Desenvolvimento:** Arch Linux (via Prompt de Comando), NeoVIM (IDE)
+Minha atuação se concentra em quatro áreas-chave do ciclo de vida de produtos de IA:
 
-## Habilidades Interpessoais
+* **1. Engenharia de Aplicações com LLMs**
+    * Desenvolvimento de **Sistemas de RAG (Retrieval-Augmented Generation)** para enriquecer LLMs com conhecimento externo, dinâmico e privado.
+    * Criação de **Sistemas de Agentes Autônomos** que raciocinam, planejam e utilizam ferramentas externas para executar tarefas complexas.
+    * Implementação de pipelines para **Extração Estruturada de Dados** a partir de documentos não-estruturados e complexos (PDFs, texto bruto).
 
-* Pensamento analítico
-* Proatividade na resolução de problemas
-* Habilidades de comunicação e apresentação
-* Criatividade e Inovação
-* Pensamento crítico e tomada de decisão
-* Criação de narrativas a partir dos dados
-* Empatia e boa capacidade de trabalho e equipe
-* Afinidade com produção acadêmica
-* Responsabilidade social
+* **2. Ciclo de Vida de Modelos Customizados**
+    * **Fine-tuning (Ajuste Fino)** de modelos de linguagem open-source (usando PEFT/LoRA) para tarefas de classificação nuanciada e para a criação de "personas" com tom de voz e conhecimento específicos.
+    * **Engenharia de Dataset:** Curadoria, limpeza e rotulagem de dados para o treinamento de modelos, incluindo a criação de datasets a partir de fontes não-estruturadas.
 
-## Meus Projetos
+* **3. Arquitetura de Sistemas de IA**
+    * Design e implementação de **APIs RESTful robustas (FastAPI)** para servir modelos e lógicas de negócio.
+    * Construção de **arquiteturas desacopladas e escaláveis**, com separação clara entre frontend, backend e serviços de IA.
+    * **Deploy e automação (LLMOps/DevOps)** em ambientes de nuvem modernos, com foco em custo-eficiência e performance.
 
-* [Desenvolvimento de Modelo para Previsão de Consumo de Energia Elétrica Residencial](https://github.com/renatobarros-ai/previsao_energia)
-* [Desenvolvimento de Modelo para Previsão de Valor de Aluguel](https://github.com/renatobarros-ai/previsao_aluguel)
-* [Implementação de Rede Neural Perceptron](https://github.com/renatobarros-ai/perceptron)
+* **4. Desenvolvimento e Interface**
+    * Criação de **interfaces de usuário customizadas (React, Vue)** para entregar uma experiência de produto final polida e profissional.
+    * Integração com plataformas de mensageria, como a **API do WhatsApp**, para criar soluções conversacionais.
+
+---
+
+### **Ferramentas & Tecnologias**
+
+* **Linguagens:** Python, SQL, Bash Script
+* **Frameworks de IA:** Hugging Face (Transformers, PEFT, Datasets), LangChain
+* **Backend:** FastAPI, Pydantic
+* **Frontend:** React, Vue, HTML/CSS/JavaScript
+* **Bancos de Dados:** PostgreSQL, ChromaDB, FAISS
+* **Nuvem & Deploy:** Docker, Render, Vercel, Netlify, Hugging Face Spaces, AWS (SageMaker, Bedrock, Lambda, S3)
+* **Desenvolvimento:** Git, GitHub, Arch Linux, NeoVIM
