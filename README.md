@@ -207,6 +207,7 @@ class FocusAtual:
 <div align="center">
 
 ### 💼 Estou sempre interessado em:
+
 🚀 **Projetos inovadores** que resolvem problemas reais  
 🤝 **Colaborações** em IA e tecnologias emergentes  
 🎯 **Oportunidades** para criar impacto positivo  
@@ -226,8 +227,6 @@ class FocusAtual:
 <div align="center">
 
 ### ⭐ Se algum projeto foi útil, considere dar uma estrela!
-
-![Snake animation](https://github.com/renatobarros-ai/renatobarros-ai/blob/output/github-contribution-grid-snake.svg)
 
 **"A IA não substitui humanos - amplifica nossa capacidade de resolver problemas complexos."**
 
