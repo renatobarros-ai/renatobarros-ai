@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Renato Barros
+# Renato Barros
 ### Engenheiro de IA & Desenvolvedor de Soluções de Ponta a Ponta
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
@@ -13,18 +13,18 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 > *"Construo aplicações inteligentes e robustas para resolver problemas complexos, com foco em projetos de alto impacto real."*
 
-🎯 **Mais de uma década** transformando sistemas complexos em soluções elegantes  
-🧠 **Especialista em IA** com abordagem metódica desde engenharia de áudio até arquitetura de sistemas inteligentes  
-🚀 **Foco em impacto real** - da prova de conceito até produção escalável  
-⚡ **Paixão por inovação** - sempre em busca de desafios que exigem rigor técnico e compreensão profunda dos problemas humanos  
+**Mais de uma década** transformando sistemas complexos em soluções elegantes  
+**Especialista em IA** com abordagem metódica desde engenharia de áudio até arquitetura de sistemas inteligentes  
+**Foco em impacto real** - da prova de conceito até produção escalável  
+**Paixão por inovação** - sempre em busca de desafios que exigem rigor técnico e compreensão profunda dos problemas humanos  
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatobarros-ai&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
@@ -34,34 +34,34 @@
 
 ---
 
-## 🎯 Principais Competências
+## Principais Competências
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Engenharia de Aplicações com LLMs
-- 🔍 **Sistemas RAG** - Enriquecimento de LLMs com conhecimento externo
-- 🤖 **Agentes Autônomos** - Sistemas que raciocinam, planejam e executam
-- 📄 **Extração Estruturada** - Dados de documentos complexos
+### Engenharia de Aplicações com LLMs
+- **Sistemas RAG** - Enriquecimento de LLMs com conhecimento externo
+- **Agentes Autônomos** - Sistemas que raciocinam, planejam e executam
+- **Extração Estruturada** - Dados de documentos complexos
 
-### 🔬 Ciclo de Vida de Modelos
-- ⚡ **Fine-tuning (PEFT/LoRA)** - Otimização eficiente de modelos
-- 📊 **Engenharia de Dataset** - Curadoria e preparação de dados
-- 🎭 **Personalização** - Criação de "personas" específicas
+### Ciclo de Vida de Modelos
+- **Fine-tuning (PEFT/LoRA)** - Otimização eficiente de modelos
+- **Engenharia de Dataset** - Curadoria e preparação de dados
+- **Personalização** - Criação de "personas" específicas
 
 </td>
 <td width="50%">
 
-### 🏗️ Arquitetura de Sistemas de IA
-- 🚀 **APIs Robustas (FastAPI)** - Serviços escaláveis e performáticos
-- ☁️ **Deploy & LLMOps** - Automação em ambientes de nuvem
-- 🔧 **Arquiteturas Desacopladas** - Separação clara de responsabilidades
+### Arquitetura de Sistemas de IA
+- **APIs Robustas (FastAPI)** - Serviços escaláveis e performáticos
+- **Deploy & LLMOps** - Automação em ambientes de nuvem
+- **Arquiteturas Desacopladas** - Separação clara de responsabilidades
 
-### 🎨 Desenvolvimento & Interface
-- ⚛️ **Frontend Moderno (React/Vue)** - Experiências polidas
-- 💬 **Integrações Conversacionais** - APIs WhatsApp e plataformas
-- 🎯 **Foco no Usuário Final** - Produtos completos e profissionais
+### Desenvolvimento & Interface
+- **Frontend Moderno (React/Vue)** - Experiências polidas
+- **Integrações Conversacionais** - APIs WhatsApp e plataformas
+- **Foco no Usuário Final** - Produtos completos e profissionais
 
 </td>
 </tr>
@@ -69,29 +69,29 @@
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## Arsenal Tecnológico
 
 <div align="center">
 
-### 🧠 **Inteligência Artificial & Machine Learning**
+### **Inteligência Artificial & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
 
-### ⚡ **Backend & APIs**
+### **Backend & APIs**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🎨 **Frontend & UI**
+### **Frontend & UI**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ☁️ **Cloud & DevOps**
+### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -101,11 +101,11 @@
 
 ---
 
-## 🌟 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
-### 🔍 [Sistema de Fact-Checking com IA Multi-Agente](link-para-repo)
+### [Sistema de Fact-Checking com IA Multi-Agente](link-para-repo)
 **Verificação automática de fatos usando múltiplos agentes especializados**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -119,7 +119,7 @@
 
 ---
 
-### 📈 [Time Series Forecasting com TinyTimeMixer (TTM)](link-para-repo)
+### [Time Series Forecasting com TinyTimeMixer (TTM)](link-para-repo)
 **Previsão de vendas usando IBM Granite e fine-tuning eficiente**
 
 ![IBM](https://img.shields.io/badge/IBM%20Granite-054ADA?style=flat-square&logo=ibm&logoColor=white)
@@ -133,7 +133,7 @@
 
 ---
 
-### 🔧 [Sistema de Fine-tuning PTT5 com QLoRA](link-para-repo)
+### [Sistema de Fine-tuning PTT5 com QLoRA](link-para-repo)
 **Pipeline completo para personalização de modelos Portuguese T5**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -147,7 +147,7 @@
 
 ---
 
-### 🚨 [Sistema de Monitoramento de Alagamentos - Porto Alegre](link-para-repo)
+### [Sistema de Monitoramento de Alagamentos - Porto Alegre](link-para-repo)
 **Sistema acadêmico de monitoramento em tempo real com IA**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -164,20 +164,20 @@
 
 ---
 
-## 📈 Contribuições & Atividade
+## Contribuições & Atividade
 
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatobarros-ai&theme=react-dark&hide_border=true)
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=renatobarros-ai&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
 ---
 
-## 🎯 O que estou explorando agora
+## O que estou explorando agora
 
 ```python
 class FocusAtual:
@@ -202,18 +202,18 @@ class FocusAtual:
 
 ---
 
-## 🤝 Vamos Conversar?
+## Vamos Conversar?
 
 <div align="center">
 
-### 💼 Estou sempre interessado em:
+### Estou sempre interessado em:
 
-🚀 **Projetos inovadores** que resolvem problemas reais  
-🤝 **Colaborações** em IA e tecnologias emergentes  
-🎯 **Oportunidades** para criar impacto positivo  
-📚 **Compartilhar conhecimento** e aprender com a comunidade  
+**Projetos inovadores** que resolvem problemas reais  
+**Colaborações** em IA e tecnologias emergentes  
+**Oportunidades** para criar impacto positivo  
+**Compartilhar conhecimento** e aprender com a comunidade  
 
-### 📫 Como me encontrar:
+### Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falecomrenatobarros@gmail.com)
@@ -226,7 +226,7 @@ class FocusAtual:
 
 <div align="center">
 
-### ⭐ Se algum projeto foi útil, considere dar uma estrela!
+### Se algum projeto foi útil, considere dar uma estrela!
 
 **"A IA não substitui humanos - amplifica nossa capacidade de resolver problemas complexos."**
 
