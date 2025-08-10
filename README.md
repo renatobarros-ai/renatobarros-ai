@@ -40,12 +40,12 @@
 <tr>
 <td width="50%">
 
-### 🤖 **Engenharia de Aplicações com LLMs**
+### 🤖 Engenharia de Aplicações com LLMs
 - 🔍 **Sistemas RAG** - Enriquecimento de LLMs com conhecimento externo
 - 🤖 **Agentes Autônomos** - Sistemas que raciocinam, planejam e executam
 - 📄 **Extração Estruturada** - Dados de documentos complexos
 
-### 🔬 **Ciclo de Vida de Modelos**
+### 🔬 Ciclo de Vida de Modelos
 - ⚡ **Fine-tuning (PEFT/LoRA)** - Otimização eficiente de modelos
 - 📊 **Engenharia de Dataset** - Curadoria e preparação de dados
 - 🎭 **Personalização** - Criação de "personas" específicas
@@ -53,12 +53,12 @@
 </td>
 <td width="50%">
 
-### 🏗️ **Arquitetura de Sistemas de IA**
+### 🏗️ Arquitetura de Sistemas de IA
 - 🚀 **APIs Robustas (FastAPI)** - Serviços escaláveis e performáticos
 - ☁️ **Deploy & LLMOps** - Automação em ambientes de nuvem
 - 🔧 **Arquiteturas Desacopladas** - Separação clara de responsabilidades
 
-### 🎨 **Desenvolvimento & Interface**
+### 🎨 Desenvolvimento & Interface
 - ⚛️ **Frontend Moderno (React/Vue)** - Experiências polidas
 - 💬 **Integrações Conversacionais** - APIs WhatsApp e plataformas
 - 🎯 **Foco no Usuário Final** - Produtos completos e profissionais
@@ -105,21 +105,6 @@
 
 <div align="center">
 
-### 🚨 [Sistema de Monitoramento de Alagamentos - Porto Alegre](link-para-repo)
-**Sistema acadêmico de monitoramento em tempo real com IA**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-
-• **CNN para detecção de pessoas** em situação de risco  
-• **Mapa interativo** com 16 regiões de POA em tempo real  
-• **Sistema de alertas** em 3 níveis com notificações automáticas  
-• **WebSocket** para atualizações instantâneas  
-
----
-
 ### 🔍 [Sistema de Fact-Checking com IA Multi-Agente](link-para-repo)
 **Verificação automática de fatos usando múltiplos agentes especializados**
 
@@ -159,6 +144,21 @@
 • **PEFT/LoRA** para treinamento eficiente de parâmetros  
 • **Templates modulares** para diferentes estilos de persona  
 • **Métricas robustas** com ROUGE e BLEU  
+
+---
+
+### 🚨 [Sistema de Monitoramento de Alagamentos - Porto Alegre](link-para-repo)
+**Sistema acadêmico de monitoramento em tempo real com IA**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+• **CNN para detecção de pessoas** em situação de risco  
+• **Mapa interativo** com 16 regiões de POA em tempo real  
+• **Sistema de alertas** em 3 níveis com notificações automáticas  
+• **WebSocket** para atualizações instantâneas  
 
 </div>
 
@@ -206,13 +206,13 @@ class FocusAtual:
 
 <div align="center">
 
-### 💼 **Estou sempre interessado em:**
+### 💼 Estou sempre interessado em:
 🚀 **Projetos inovadores** que resolvem problemas reais  
 🤝 **Colaborações** em IA e tecnologias emergentes  
 🎯 **Oportunidades** para criar impacto positivo  
 📚 **Compartilhar conhecimento** e aprender com a comunidade  
 
-### 📫 **Como me encontrar:**
+### 📫 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falecomrenatobarros@gmail.com)
@@ -225,7 +225,7 @@ class FocusAtual:
 
 <div align="center">
 
-### ⭐ **Se algum projeto foi útil, considere dar uma estrela!**
+### ⭐ Se algum projeto foi útil, considere dar uma estrela!
 
 ![Snake animation](https://github.com/renatobarros-ai/renatobarros-ai/blob/output/github-contribution-grid-snake.svg)
 
