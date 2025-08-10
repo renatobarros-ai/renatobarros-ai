@@ -17,10 +17,10 @@
 
 > *"Construo aplicações inteligentes e robustas para resolver problemas complexos, com foco em projetos de alto impacto real."*
 
-**Mais de uma década** transformando sistemas complexos em soluções elegantes  
-**Especialista em IA** com abordagem metódica desde engenharia de áudio até arquitetura de sistemas inteligentes  
-**Foco em impacto real** - da prova de conceito até produção escalável  
-**Paixão por inovação** - sempre em busca de desafios que exigem rigor técnico e compreensão profunda dos problemas humanos  
+* **Mais de uma década** transformando sistemas complexos em soluções elegantes  
+* **Especialista em IA** com abordagem metódica desde engenharia de áudio até arquitetura de sistemas inteligentes  
+* **Foco em impacto real** - da prova de conceito até produção escalável  
+* **Paixão por inovação** - sempre em busca de desafios que exigem rigor técnico e compreensão profunda dos problemas humanos  
 
 <div align="center">
 
