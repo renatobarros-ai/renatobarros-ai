@@ -22,6 +22,19 @@
 🚀 **Foco em impacto real** - da prova de conceito até produção escalável  
 ⚡ **Paixão por inovação** - sempre em busca de desafios que exigem rigor técnico e compreensão profunda dos problemas humanos  
 
+### 🛠️ Tecnologias que domino:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/pytorch.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/huggingface.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/openai.svg" alt="OpenAI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/react.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/amazonwebservices.svg" alt="AWS" width="40" height="40"/>
+</p>  
+
 <div align="center">
 
 ### 📊 GitHub Stats
@@ -200,6 +213,16 @@ class FocusAtual:
         return "🚀 Sempre aberto a desafios inovadores!"
 ```
 
+### 🔬 Explorando tecnologias emergentes:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/langchain.svg" alt="LangChain" width="30" height="30" title="LangChain"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/anthropic.svg" alt="Anthropic" width="30" height="30" title="Anthropic"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/kubernetes.svg" alt="Kubernetes" width="30" height="30" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" width="30" height="30" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/nvidia.svg" alt="NVIDIA" width="30" height="30" title="NVIDIA"/>
+</p>
+
 ---
 
 ## 🤝 Vamos Conversar?
@@ -214,6 +237,23 @@ class FocusAtual:
 📚 **Compartilhar conhecimento** e aprender com a comunidade  
 
 ### 📫 Como me encontrar:
+
+<p>
+<a href="https://linkedin.com/in/seu-perfil">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:falecomrenatobarros@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40"/>
+</a>
+<a href="https://github.com/renatobarros-ai">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
+</a>
+<a href="https://seu-portfolio.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v9/icons/firefoxbrowser.svg" alt="Portfolio" width="40" height="40"/>
+</a>
+</p>
+
+**Ou pelos badges tradicionais:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falecomrenatobarros@gmail.com)
