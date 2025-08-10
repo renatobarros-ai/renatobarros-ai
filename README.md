@@ -183,21 +183,21 @@
 class FocusAtual:
     def __init__(self):
         self.aprendendo = [
-            "🧠 Multi-Agent Systems & LangGraph",
-            "⚡ Edge AI & Model Optimization", 
-            "🔗 Blockchain Integration with AI",
-            "🌐 Distributed AI Architectures"
+            "Multi-Agent Systems & LangGraph",
+            "Edge AI & Model Optimization", 
+            "Blockchain Integration with AI",
+            "Distributed AI Architectures"
         ]
         
         self.construindo = [
-            "🤖 Plataforma de Agentes Autônomos",
-            "📊 Sistema de BI com IA Generativa",
-            "🔍 RAG Multimodal (Texto + Visão)",
-            "⚡ Framework de LLMOps Simplificado"
+            "Plataforma de Agentes Autônomos",
+            "Sistema de BI com IA Generativa",
+            "RAG Multimodal (Texto + Visão)",
+            "Framework de LLMOps Simplificado"
         ]
     
     def proximo_projeto(self):
-        return "🚀 Sempre aberto a desafios inovadores!"
+        return "Sempre aberto a desafios inovadores!"
 ```
 
 ---
