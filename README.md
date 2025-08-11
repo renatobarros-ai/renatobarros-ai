@@ -26,9 +26,9 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatobarros-ai&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatobarrosai&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatobarros-ai&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatobarrosai&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -168,10 +168,10 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatobarros-ai&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatobarrosai&theme=react-dark&hide_border=true)
 
 ### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=renatobarros-ai&theme=radical&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=renatobarrosai&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
