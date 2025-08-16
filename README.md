@@ -3,7 +3,7 @@
 # Renato Barros
 ### Engenheiro de IA & Desenvolvedor de Soluções de Ponta a Ponta
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatobarros-ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falecomrenatobarros@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
 
@@ -119,7 +119,7 @@
 
 ---
 
-### [Time Series Forecasting com TinyTimeMixer (TTM)](link-para-repo)
+### [Time Series Forecasting com TinyTimeMixer (TTM)](https://github.com/renatobarrosai/ttm-r2.1-challenge.git)
 **Previsão de vendas usando IBM Granite e fine-tuning eficiente**
 
 ![IBM](https://img.shields.io/badge/IBM%20Granite-054ADA?style=flat-square&logo=ibm&logoColor=white)
@@ -133,7 +133,7 @@
 
 ---
 
-### [Sistema de Fine-tuning PTT5 com QLoRA](link-para-repo)
+### [Sistema de Fine-tuning PTT5 com QLoRA](https://github.com/renatobarrosai/sistema_le_mat.git)
 **Pipeline completo para personalização de modelos Portuguese T5**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -147,7 +147,7 @@
 
 ---
 
-### [Sistema de Monitoramento de Alagamentos - Porto Alegre](link-para-repo)
+### [Sistema de Monitoramento de Alagamentos - Porto Alegre](https://github.com/renatobarrosai/alerta_poa.git)
 **Sistema acadêmico de monitoramento em tempo real com IA**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -215,7 +215,7 @@ class FocusAtual:
 
 ### Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renatobarros-ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falecomrenatobarros@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatobarrosai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
